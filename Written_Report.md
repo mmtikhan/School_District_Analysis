@@ -33,7 +33,7 @@ The affection of school summary is more dramatic for Thomas High School     and 
 ![](Resources/Sc_sum_b.png)
 
 Removing 9th graders' scores moved Thomas High School from top 2 school to 3th place from bottom.
-![](Resources/bottom5.png)
+![](Resources/bottom5.PNG)
 
 Removing the Thomas High School affected the overall math score by 0,1 point
 
