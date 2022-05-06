@@ -24,13 +24,13 @@ Using Jupiter and additional libraries requires additional education which takes
 
 ## Results
 Removing Thomas High School ninth graders crores affected the district summary:  the overall passing is dropped by 0.1%
-![](Resources/District_sum_A.png)
-![](Resources/District_sum_B.png)
+![](Resources/District_sum_A.PNG)
+![](Resources/District_sum_B.PNG)
 
 The affection of school summary is more dramatic for Thomas High School     and drops overall passing from 90.4 to 65.1
-![](Resources/sc_sum_head.png)
-![](Resources/Sc_sum_a.png)
-![](Resources/Sc_sum_b.png)
+![](Resources/sc_sum_head.PNG)
+![](Resources/Sc_sum_a.PNG)
+![](Resources/Sc_sum_b.PNG)
 
 Removing 9th graders' scores moved Thomas High School from top 2 school to 3th place from bottom.
 ![](Resources/bottom5.PNG)
